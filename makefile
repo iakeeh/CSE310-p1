@@ -12,3 +12,6 @@
 encode: encode.cpp
 	g++ encode.cpp -o encode
 
+
+decode: decode.cpp
+	g++ decode.cpp -o decode
